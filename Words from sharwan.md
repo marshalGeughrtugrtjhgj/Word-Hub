@@ -1,4 +1,4 @@
-## 📜 Daily Words Challenge  
+## 📜 Daily Words Challenge from sharwan 
 
 Each day, we add **5 new words** with their meanings in **English and Nepali**.  
 
