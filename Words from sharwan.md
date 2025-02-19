@@ -14,9 +14,4 @@ Each day, we add **5 new words** with their meanings in **English and Nepali**.
 
 ---
 
-### 📌 How to Contribute?  
-1. Fork the repository (if needed).  
-2. Add **5 new words** with meanings under the latest date.  
-3. Push the changes and create a pull request if required.  
 
-🚀 Keep learning new words every day! 🔥  
