@@ -15,8 +15,6 @@ Each day, we add 5 new words with their meanings in English and Nepali.
 
 # 📆 February 21, 2025  
 
-## 📝 Advanced Word List  
-
 | #  | Word            | Meaning (English)                                    | अर्थ (नेपाली)                        |  
 |----|---------------|----------------------------------------------------|----------------------------------|  
 | 1  | **Reverence**  | Deep respect for someone or something              | गहिरो सम्मान, श्रद्धा               |  
